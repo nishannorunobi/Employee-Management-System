@@ -1,0 +1,22 @@
+Angular JS configure
+-------------------------------------
+url : https://docs.angularjs.org/misc/contribute#installing-dependencies
+==================================
+to delete maven all local dependency
+-------------------------------------
+cd %userprofile%\.m2\repository
+for /r %i in (*.lastUpdated) do del %i
+========================================
+maven setup along with spring
+---------------------------------
+http://en.tekstenuitleg.net/articles/software/spring-3-mvc-project-from-scratch/test-and-deploy-with-maven
+==============================
+eclipse-angular setup
+------------------
+https://github.com/angelozerr/angularjs-eclipse/wiki/Getting-Started
+
+=============================
+All config
+---------------
+http://smdsuniaugsburg.blogspot.com/2014/04/how-to-setup-eclipse-for-seamless.html
+==============================
